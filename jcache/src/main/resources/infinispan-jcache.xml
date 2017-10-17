@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<infinispan xmlns="urn:infinispan:config:9.1">
+    <cache-container>
+        <transport/>
+        <invalidation-cache-configuration name="inv-template"/>
+    </cache-container>
+</infinispan>
